@@ -12,6 +12,7 @@
 // Solicitamos el nombre del usuario
 const userName = prompt("Ingresa tu nombre:");
 
+
 // Solicitamos la edad del usuario
 const userAgeInput = prompt("Ingresa tu edad:");
 
